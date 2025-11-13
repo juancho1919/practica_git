@@ -9,3 +9,7 @@ def area_t(base,altura):
     altura = int(input())
     return base * altura / 2
 
+def area_cir(radio):
+    return 3.1214 * radio * 2
+
+    
