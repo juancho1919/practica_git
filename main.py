@@ -3,7 +3,8 @@ from functions import sumar_n
 from calculos import area_c,area_t,area_cir
 
 #programas
-print("hola mundo")
+print("practica_git 13/11/2025")
+
 
 
 
