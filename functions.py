@@ -1,9 +1,7 @@
 #archivo de funciones generales
-def sumar(a,b):
-    a = 5
-    b = 10
-    return a + b
-
+def sumar_n(a,b):
+    resultado = a + b
+    return resultado
 
 
     

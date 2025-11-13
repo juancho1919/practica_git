@@ -5,5 +5,7 @@ def area_c(lado):
 #La cree por que el anterior cmpañero no alcanzo a hacerla
 
 def area_t(base,altura):
+    base = int(input())
+    altura = int(input())
     return base * altura / 2
 
