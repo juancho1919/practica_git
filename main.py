@@ -29,7 +29,7 @@ while True:
         resultado = sumar_n(a,b)
         print(resultado)
     elif opcion == "4":
-        radio = str(input("digite el radio: "))
+        radio = int(input("digite el radio: "))
         print(area_cir(radio))
     else:
         opcion == "0"
